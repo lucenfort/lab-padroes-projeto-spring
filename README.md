@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.svg" alt="Clientes API - Spring Boot" width="100%">
+</p>
+
 # Clientes API
 
 API REST Spring Boot para cadastro de clientes. O endereço é preenchido consultando o ViaCEP a partir do CEP informado. O projeto usa uma separação simples entre API, serviço, persistência e integração externa, com respostas de erro sem dados internos.
